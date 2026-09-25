@@ -1,6 +1,6 @@
 # Rapport de la troisième semaine
 
-### Mohammad Hossein ESLAHI
+
 
 ### Souhail OUARGUI
 
@@ -25,3 +25,20 @@ And for this week I also added some other tests to the chess game after understa
 ##### What I struggled with:
 
 for The chess game I struggled a little bit at first to understand the game core classes and components, then when I went ahead to the first test, when I finished it i managed to understand more.
+
+
+
+### Mohammad Hossein ESLAHI
+Pendant cette semaine, je me suis plutôt concentré sur le fait de regarder des vidéos jusqu'à la fin du module 6.
+
+J'ai repris l'exo rock-paper-scissors pour réessayer de faire la déclaration des petites méthodes, ce qui est important pour avoir un clean code et aussi avoir la possibilité d'ajouter n'importe quel nombre d'extensions sans modifier les codes déjà écrits, et je crois que j'ai toujours besoin de pratiquer cette manière de coder pour en prendre l'habitude.
+
+J'ai essayé de mieux comprendre le fonctionnement des images dans lesquelles on crée des packages pour mettre notre code dedans.   
+
+Je connaissais déjà visitor et composite comme des patterns, mais comme ça fait longtemps que je ne les ai pas utilisés, c'est un bon rappel, surtout qu'avant ils étaient un peu dans les vagues pour moi (ce qui est pareil pour tous les patterns).
+
+J'ai toujours un peu de problèmes avec la notion "don't ask, tell" comme depuis le début en licence, toutes nos méthodes étaient plutôt des questions que l'action directe qu'on veut effectuer.
+
+Jusqu'à maintenant, j'avais un peu peur de commencer le chess game, mais depuis la quatrième séance, je vais m'investir à fond pour que je puisse avancer sur le projet en même temps que j'utilise les notions et les astuces des vidéos et du cours.
+
+
